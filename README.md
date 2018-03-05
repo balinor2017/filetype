@@ -33,7 +33,7 @@ See [Godoc](https://godoc.org/github.com/haxii/filetype) reference.
 
 ## Examples
 
-#### Simple file type checking
+### Simple file type checking
 
 ```go
 package main
@@ -176,7 +176,7 @@ func main() {
 
 ## Supported types
 
-#### Image
+### Image
 
 - **jpg** - `image/jpeg`
 - **png** - `image/png`
